@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sebastianrestrepo/Calculadora/issues"
   },
-  "homepage": "https://github.com/sebastianrestrepo/Calculadora#readme"
+  "homepage": "https://github.com/sebastianrestrepo/Calculadora#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
